@@ -1,6 +1,6 @@
 # Zombie Apocalyse:
 
-Hi, this is the zombie game, I have created. When you start the game, the game greets you, and shows you the position of the first zombie and the creatures on the board.
+Hi, this is the zombie game, I have created. When you start the game, the game greets you, and shows you the position of the first zombie and the creatures on the board in the termianl. 
 
 When the zombie moves and infects a creature, this is printed in the terminal.
 
