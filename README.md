@@ -12,7 +12,6 @@ Installing the packages
 
 ```
 npm i
-
 ```
 
 After changing the inputs, compile typescript and run. 
@@ -23,7 +22,6 @@ tsc
 cd dist
 
 node index.js
-
 ```
 
 ## What I Am Proud Of:
